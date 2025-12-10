@@ -6,6 +6,7 @@ public class C {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("master revise C!");
+		System.out.println("Alice revise C");
 	}
 
 }
