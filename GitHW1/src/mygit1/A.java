@@ -8,6 +8,8 @@ public class A {
 		System.out.println("Alice revise A ");
 		System.out.println("Hello Alice !");
 		System.out.println("Bob revise A !");
+		System.out.println("Bob revise A !");
+		System.out.println("Bob revise AA !");
 	}
 
 }
